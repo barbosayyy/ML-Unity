@@ -1,0 +1,41 @@
+{
+    "DodgeBehavior": {
+        "checkpoints": [
+            {
+                "steps": 17161,
+                "file_path": "results\\ppo\\DodgeBehavior\\DodgeBehavior-17161.onnx",
+                "reward": -0.03223918970797505,
+                "creation_time": 1623084613.952443
+            },
+            {
+                "steps": 17472,
+                "file_path": "results\\ppo\\DodgeBehavior\\DodgeBehavior-17472.onnx",
+                "reward": -0.05421053167236479,
+                "creation_time": 1623084640.7483096
+            },
+            {
+                "steps": 499982,
+                "file_path": "results\\ppo\\DodgeBehavior\\DodgeBehavior-499982.onnx",
+                "reward": 0.0592350707417215,
+                "creation_time": 1623086750.1485772
+            },
+            {
+                "steps": 500082,
+                "file_path": "results\\ppo\\DodgeBehavior\\DodgeBehavior-500082.onnx",
+                "reward": 0.059242140281387703,
+                "creation_time": 1623086750.386632
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500082,
+            "file_path": "results\\ppo\\DodgeBehavior.onnx",
+            "reward": 0.059242140281387703,
+            "creation_time": 1623086750.386632
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}
