@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.unity.barracuda": {
-      "version": "1.4.0-preview",
+      "version": "2.0.0-pre.3",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -67,21 +67,22 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:C:/Users/Pedro/Downloads/ml-agents-release_17/com.unity.ml-agents",
+      "version": "2.0.0-pre.3",
       "depth": 0,
-      "source": "local",
+      "source": "registry",
       "dependencies": {
-        "com.unity.barracuda": "1.4.0-preview",
+        "com.unity.barracuda": "2.0.0-pre.3",
         "com.unity.modules.imageconversion": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
-      }
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents.extensions": {
-      "version": "file:D:/Meus Documentos/My Stuff/ULP/2º Ano/2º Semestre/IA/ml-agents/com.unity.ml-agents.extensions",
+      "version": "file:C:/Users/Pedro/Downloads/ml-agents-release_17/com.unity.ml-agents.extensions",
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.unity.ml-agents": "2.1.0-exp.1",
+        "com.unity.ml-agents": "2.0.0-exp.1",
         "com.unity.modules.physics": "1.0.0"
       }
     },
