@@ -1,6 +1,8 @@
 # ML Unity
  My implementation of Machine Learning in a project using Unity's MLagents
 
+PS: The missing packages are from MLagents release 17 (com.unity.ml-agents & com.unity.ml-agents.extensions)
+
 How to use ML:
 
 Creating a new Brain:
